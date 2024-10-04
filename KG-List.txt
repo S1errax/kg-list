@@ -1,0 +1,10 @@
+||schemas.android.com^
+||eu-segd-api.secb2b.com^
+||gsl.samsunggsl.com^
+||pinning-02.secb2b.com^
+||plus.google.com^
+||preprod-eu-segd-api.secb2b.com^
+||preprod-us-segd-api.secb2b.com^
+||stage-pinning-02.secb2b.com^
+||stg-gsl.samsunggsl.com^
+||us-segd-api.secb2b.com^
